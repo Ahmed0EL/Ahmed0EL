@@ -7,6 +7,9 @@
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 
 <hr/>
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0019.gif" width='100%'  >
+</div>
   <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
@@ -33,5 +36,5 @@
   
 </table>
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0375.gif" width='100%'  >
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0019.gif" width='100%'  >
 </div>
