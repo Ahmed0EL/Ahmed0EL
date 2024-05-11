@@ -7,7 +7,7 @@
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0el&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0el" /> </p>
 <hr/>
-<div>
+<div aling='center' >
   <img align="right" alt="GIF" src="https://i0.wp.com/media.tenor.com/TIUfh_o9hIUAAAAd/minimoss-pixel-art.gif?fit=960%2C960&ssl=1" width="350px" />
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
