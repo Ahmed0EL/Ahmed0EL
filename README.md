@@ -33,5 +33,5 @@
   
 </table>
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0375.gif"  >
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0375.gif" width='100%'  >
 </div>
