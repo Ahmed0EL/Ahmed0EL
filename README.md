@@ -7,7 +7,7 @@
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 
 <hr/>
-<div aling='center' width="350px" >
+<div aling='center'  >
   <img align="right" alt="GIF" src="https://i0.wp.com/media.tenor.com/TIUfh_o9hIUAAAAd/minimoss-pixel-art.gif?fit=960%2C960&ssl=1"  />
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 
