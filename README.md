@@ -7,14 +7,6 @@
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 
 <hr/>
-<div aling='center'  >
-<h3 align="left">👨🏻‍💻 About Me:</h3>
-
-- 💻 Full Stack Developer & UX/UI Designer
-- 📌 I live in Moroco 🇲🇦
-- 📧 Ahmedelhouinki@gmail.com
-</div>
-<hr/>
   <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 
