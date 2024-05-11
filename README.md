@@ -23,6 +23,6 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&locale=en" alt="ahmed0el" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&" alt="ahmed0el" /></p>
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/70f81163393359.5ab4c75066483.gif">
-</div>
+
+<img src="https://i.gifer.com/Vp3L.gif">
+
