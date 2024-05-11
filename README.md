@@ -14,13 +14,15 @@
 - 💻 Full Stack Developer & UX/UI Designer
 - 📌 I live in Moroco 🇲🇦
 - 📧 Ahmedelhouinki@gmail.com
-
-<h3 align="center">Languages and Tools:</h3>
+<div>
+  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
   </a>
 </p>
+</div>
+
 <div>
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&locale=en" alt="ahmed0el" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&" alt="ahmed0el" /></p>
