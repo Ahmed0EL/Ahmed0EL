@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Elhouinki</h1>
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 <h3 align="center">ahmedelhouinki@gmail.com</h3>
