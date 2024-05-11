@@ -16,14 +16,13 @@
 - 📧 Ahmedelhouinki@gmail.com
 </div>
 <hr/>
-<div align='center'>
-  <h3 align="center">Languages and Tools:</h3>
+
 <p align="center">
+  <h3 align="center">Languages and Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
   </a>
 </p>
-</div>
 <table>
   <tr>
     <td>
