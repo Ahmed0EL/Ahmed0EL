@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif)](https://rishavchanda.io)
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddr93fw-5011b54c-a4f3-425c-845b-177bac15db18.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRyOTNmdy01MDExYjU0Yy1hNGYzLTQyNWMtODQ1Yi0xNzdiYWMxNWRiMTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5BZeJB8MG837ng4fhTjFKxW289FEYzShA7iymFt1oiw)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Elhouinki</h1>
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 <h3 align="center">ahmedelhouinki@gmail.com</h3>
