@@ -16,7 +16,7 @@
 - 📧 Ahmedelhouinki@gmail.com
 </div>
 
-<div>
+<div align='center'>
   <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
