@@ -24,11 +24,21 @@
   </a>
 </p>
 </div>
-
-<div>
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&locale=en" alt="ahmed0el" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&" alt="ahmed0el" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0el&show_icons=true&locale=en&layout=compact" alt="ahmed0el" /></p>
-
-</div>
+<table>
+  <tr>
+    <td>
+    <img  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&locale=en" alt="ahmed0el" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&" alt="ahmed0el" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0el&show_icons=true&locale=en&layout=compact" alt="ahmed0el" />
+    </td>
+  </tr>
+  
+</table>
