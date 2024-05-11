@@ -1,4 +1,7 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/652b7774-25ef-4db1-b121-390b31275435/dc2fbrm-22794a16-0e87-43df-9594-349c7b3fd306.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY1MmI3Nzc0LTI1ZWYtNGRiMS1iMTIxLTM5MGIzMTI3NTQzNVwvZGMyZmJybS0yMjc5NGExNi0wZTg3LTQzZGYtOTU5NC0zNDljN2IzZmQzMDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._iE6BVr4GtwZIdOvkpSYMGG6KhPFPIIXslyOfS0bvMY)](https://rishavchanda.io)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ahmed Elhouinki</h1>
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 <h3 align="center">ahmedelhouinki@gmail.com</h3>
