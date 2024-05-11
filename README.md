@@ -24,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&" alt="ahmed0el" /></p>
 
-<img src="https://i.gifer.com/Vp3L.gif">
+<img align="right" alt="GIF" src="https://i.gifer.com/Vp3L.gif" width="100%" />
 
