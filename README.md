@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Elhouinki</h1>
+<h1 align="center">Hi 👋, I'm Ahmed El houinki</h1>
 <h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
 
 <hr/>
