@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0el&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0el" /> </p>
-<h1 align="center">Hi 👋, I'm Ahmed El houinki</h1>
+
+<h1 align="center">Hi 👋, I'm Ahmed El houinki <p align="left"> <img src="https://portfolio-ahmed-elhouinki.vercel.app/" alt="ahmed0el" /> </p> </h1>
 <h3 align="center">Full Stack Developer | Web App Design Figma | Discord Bot Enthusiast</h3>
 
 <hr/>
