@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed El houinki</h1>
-<h3 align="center">Passionate Full Stack Developer | Expert in Web App Design & Development | Discord Bot Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Web App Design Figma | Discord Bot Enthusiast</h3>
 
 <hr/>
 <div align="center">
@@ -23,7 +23,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0el&theme=dark&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed0EL" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
