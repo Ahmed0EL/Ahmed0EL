@@ -17,7 +17,7 @@
   </a>
 </p>
 <table align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed0EL" alt="GitHub Streak" /></a>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&theme=radical" /> 
   <tr border="none"> 
     <td width="50%" align="center">
