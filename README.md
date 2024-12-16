@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
   </a>
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed0EL&theme=github_dark)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed0EL&theme=github_dark)]
 <table align="center">
   <tr colspan="2" >
     <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed0EL&theme=github_dark)</td>
