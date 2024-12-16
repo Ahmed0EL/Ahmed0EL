@@ -18,7 +18,7 @@
 </p>
 <table align="center">
   <tr colspan="2" >
-    <td>![[https://github.com/vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed0EL&theme=github_dark)</td>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed0EL&theme=github_dark)</td>
   </tr>
 <tr border="none">
 <td width="50%" align="center">
