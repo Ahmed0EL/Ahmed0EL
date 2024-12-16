@@ -16,18 +16,22 @@
     <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
   </a>
 </p>
-<table align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed0EL" alt="GitHub Streak" /></a>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&show_icons=true&theme=radical" /> 
+<table align="center" width="100%">
   <tr border="none"> 
     <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&theme=dark&show_icons=true&count_private=true" /> 
+      <a href="https://github.com/ahmed0el/github-readme-stats">
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0el&theme=dark&show_icons=true" />
+</a>
     </td>
     <td width="50%" align="center">
-      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmed0el&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+      <a href="https://github.com/ahmed0el/convoychat">
+  <img height=500 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmed0el&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</a>
     </td> 
   </tr> 
 </table>
+
+
 
 
 <div align="center">
