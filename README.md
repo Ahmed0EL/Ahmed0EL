@@ -16,9 +16,7 @@
     <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
   </a>
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark)
+<table align="center">  <tr border="none"> <td width="50%" align="center"> <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmed0el&theme=dark&show_icons=true&count_private=true" /> </td> <td width="50%" align="center"> <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmed0el&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table>
 
 
 <div align="center">
