@@ -9,13 +9,7 @@
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0019.gif" width='100%'  >
 </div>
-  <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,blender,bootstrap,cpp,css,discord,bots,figma,github,html,ai,js,jquery,linux,mongodb,laravel,mysql,nodejs,npm,ps,php,postman,py,react,tailwind,vite,vscode,windows" />
-  </a>
-</p>
+  
 <table align="center" width="100%">
   <tr border="none"> 
     <td width="50%" align="center">
@@ -30,7 +24,62 @@
     </td> 
   </tr> 
 </table>
+<br/>
+<div>
+<h2 align="left">
+  <img width="30px"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBzNnNnbHlmYjhsbWxhejl1c2hlMWZxbnM2N2lzbmQ3aHEyYW14MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" /> My Skills</h3>  
+  
+<h3 align="left">Programming Languages</h3>  
+  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,php,py" />
+  </a>
+</p>
+      
+<h3 align="left">Frameworks and Libraries</h3>  
+  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,nodejs,react,tailwind,vite,laravel" />
+  </a>
+</p>
+<h3 align="left">Databases & Cloud</h3>  
+  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,azure" />
+  </a>
+</p>
+<h3 align="left">Software and Tools</h3>  
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode" />
+  </a>
+</p>
+<h3 align="left">Ux/Ui Design & Designer</h3>  
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
+  </a>
+</p>
+
+
+<h3 align="left">Workspace</h3>  
+<p align="left">
+
+  <a href="https://skillicons.dev"  >
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
+  </a>
+</p>
+  
+</div>
+
+<h2>Connect with me</h2>
+<p align="center">
+
+</p>
 
 
 
